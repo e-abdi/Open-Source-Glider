@@ -4,3 +4,4 @@ Underwater gliders are autonomous underwater vehicles used to collect valuable s
 ![alt text](https://github.com/e-abdi/Open-Source-Glider/blob/main/Pics/Glider%20Example.PNG)
 ## This Project
 This project serves as an effort in making underwater gliders more accessible to students and general public and to promote citizen science. 
+![alt text](https://github.com/e-abdi/Open-Source-Glider/blob/main/Pics/Current%20design.png)
