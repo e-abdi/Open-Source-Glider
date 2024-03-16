@@ -1,0 +1,44 @@
+Communication
++++++++++++++++++++++++
+
+Electromagnetic waves don't do well in water. Most frequencies attenuate rapidly after a few centimeter of water, especially salt water. However, if you are in freshwater and using quite low frequencies, you could get your signal down to a few meters. I have heard of the hobby submarine community operating their RC subs down to 10m or so in freshwater. Although this might have interesting applications down the line, from here on, we will be either talking about electromagnetic based communication when glider is at surface, or acoustic communication when glider is underwater.  
+It's very important to communicate efficiently in the oceans because communication is expensive both in terms of money and power budget. Here is another point where Seaglider has a far better design than Slocum. Seaglider kbytes transferred for a similar mission is many times smaller than that of Slocum. I think we can do even better than Seaglider in our design.
+
+Iridium
+=======================
+
+The go-to communication method of extremely remote areas as Iridium has a pole to pole coverage. A marvel of engineering for the time it was made and with a crazy story how almost all of its satellites got shot down by rockets!
+I definitely recommend checking out the book  "Eccentric Orbits: The Iridium Story".
+
+
+SBD vs Rudics
+------------------------
+
+SBD is simple packet-based service which doesn't need a SIM card and it's mostly used for global asset tracking like containers. You can use this for transferring data but it's quite unreliable and unsecure. 
+
+Security
+-------------
+
+Iridium comms are not secure. A group in Germany has decoded the data and published their tool online! Listen to their very interesting talk here.
+This is on my to do list to try to see if I can do a man-in-the-middle attack to a glider and take over its piloting!
+
+Argos
+===============
+
+Another constellation used mostly for animal tracking but used on gliders as a backup system. The localization method is based on doppler effect so it's quite low accuracy but good last resort! The new generation of trackers actually use GPS for more location accuracy and actually use the satellites for data transmission. Apparently you can even sent a few other bytes alongside the GPS lines which could be interesting in our case! but haven't tried this yet
+mention CLS
+
+LoRa
+===========
+This is definitely something to explore especially in the DIY glider space, since this protocol is designed for extremely long range, low bandwidth and low power applications, so fits gliders perfectly! You will just need to install a gateway that can cover the area you will operate at, possibly on a high building or a mountain near the sea and you can have a pretty decent coastal coverage. 
+There are now even LoRa satellites in orbit so theoretically, it would be possible to cruise the oceans relying on them, maybe one day!
+
+GSM
+==============
+
+For coastal application within a few kilometers from the shore, GSM should suffice. 
+
+Antennas
+=================
+
+GPS and Iridium use very similar frequency range so commercial gliders use a single antenna for both with a RF switch to select which device is currently using the antenna.
