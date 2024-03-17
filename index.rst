@@ -56,5 +56,10 @@ I am an electronics engineer who has been working with commercial underwater gli
 
    Sensors/CTD
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Other Topics
 
+   Other Topics/data
 
