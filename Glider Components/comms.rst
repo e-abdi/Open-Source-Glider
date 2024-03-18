@@ -8,7 +8,7 @@ Iridium
 =======================
 
 The go-to communication method of extremely remote areas as Iridium has a pole to pole coverage. A marvel of engineering for the time it was made and with a crazy story how almost all of its satellites got shot down by rockets!
-I definitely recommend checking out the book  "Eccentric Orbits: The Iridium Story".
+I definitely recommend checking out the book  `Eccentric Orbits: The Iridium Story <oceanosgeos@gmail.com>`_.
 
 
 SBD vs Rudics
@@ -19,14 +19,13 @@ SBD is simple packet-based service which doesn't need a SIM card and it's mostly
 Security
 -------------
 
-Iridium comms are not secure. A group in Germany has decoded the data and published their tool online! Listen to their very interesting talk here.
-This is on my to do list to try to see if I can do a man-in-the-middle attack to a glider and take over its piloting!
+Iridium comms are not secure. A group in Germany has decoded the data and published their tool online! Listen to their very interesting talk `here <https://youtu.be/JhJT7Cvh6NE?si=9_wxUTpdEPtfm7ry>`_.
+
 
 Argos
 ===============
 
-Another constellation used mostly for animal tracking but used on gliders as a backup system. The localization method is based on doppler effect so it's quite low accuracy but good last resort! The new generation of trackers actually use GPS for more location accuracy and actually use the satellites for data transmission. Apparently you can even sent a few other bytes alongside the GPS lines which could be interesting in our case! but haven't tried this yet
-mention CLS
+Another constellation used mostly for animal tracking but used on gliders as a backup system. The localization method is based on doppler effect so it's quite low accuracy but good last resort! The new generation of trackers actually use GPS for more location accuracy and actually use the satellites for data transmission. Apparently you can even sent a few other bytes alongside the GPS lines which could be interesting in our case! but haven't tried this yet.
 
 LoRa
 ===========
