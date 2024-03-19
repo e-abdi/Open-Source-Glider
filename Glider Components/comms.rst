@@ -8,7 +8,7 @@ Iridium
 =======================
 
 The go-to communication method of extremely remote areas as Iridium has a pole to pole coverage. A marvel of engineering for the time it was made and with a crazy story how almost all of its satellites got shot down by rockets!
-I definitely recommend checking out the book  `Eccentric Orbits: The Iridium Story <oceanosgeos@gmail.com>`_.
+I definitely recommend checking out the book  `Eccentric Orbits: The Iridium Story <https://a.co/d/aCnYIyf>`_.
 
 
 SBD vs Rudics
