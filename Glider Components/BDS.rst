@@ -12,3 +12,5 @@ In Slocum, they use a 90-watt motor and a rolling diaphragm seal to achieve this
 Bladder design
 -------------------
 At surface a normally-closed solenoid valve is opened and oil is pushed inside the pressure hull. This makes the glider denser than the water so it dives. When glider reaches the desired depth, it will pump oil back out into the external bladder and this will cause the glider to climb up the water column.
+
+.. image:: /images/BladderDesign.png
