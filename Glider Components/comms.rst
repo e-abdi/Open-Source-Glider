@@ -7,7 +7,7 @@ It's very important to communicate efficiently in the oceans because communicati
 Iridium
 =======================
 
-The go-to communication method of extremely remote areas as Iridium has a pole to pole coverage. A marvel of engineering for the time it was made and with a crazy story how almost all of its satellites got shot down by rockets!
+The go-to communication method of extremely remote areas, since Iridium has a pole to pole coverage. A marvel of engineering for its time and with a crazy story of how all of its satellites almost got shot down by rockets!
 I definitely recommend checking out the book  `Eccentric Orbits: The Iridium Story <https://a.co/d/aCnYIyf>`_.
 
 
