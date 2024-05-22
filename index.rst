@@ -43,7 +43,6 @@ I am an electronics engineer who has been working with commercial underwater gli
    Glider Components/attitude
    Glider Components/comms
    Glider Components/battery
-   Glider Components/nav
    Glider Components/strobe
    Glider Components/dropweight
 
@@ -62,4 +61,5 @@ I am an electronics engineer who has been working with commercial underwater gli
    :caption: Other Topics
 
    Other Topics/data
+   Other Topics/nav
 
