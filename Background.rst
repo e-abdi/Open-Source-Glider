@@ -15,8 +15,7 @@ Non-steerable
 The simplest kind of moving platform is called a drifter. It's basically a buoyant structure that drifts on the water surface with currents and transmits information such as it's location at some specified intervals.  Check out `this <https://www.onelessbottle.org/oceantracking/>`_ project where they used a simple water bottle as a drifter. 
 
 A float is a device that can monitor water column by changing its buoyancy and basically floating up and down with no steering capability. Probably the best example of standardization in the ocean is the `Argo <https://en.wikipedia.org/wiki/Argo_(oceanography)>`_ float program where they have standards in everything. All the way from hardware to data. 
-A French team has designed a low-cost float `here <https://www.mechanics-industry.org/articles/meca/full_html/2020/05/mi190322/mi190322.html
-https://github.com/ThomasLeMezo/seabot/tree/master>`_.
+A French team has designed a low-cost float `here <https://github.com/ThomasLeMezo/seabot/tree/master>`_.
 
 .. image:: /images/argo.jpg
 
