@@ -2,7 +2,7 @@ UVP6
 ++++++++++
 Develosped by `LOV <https://www.obs-vlfr.fr/web/index.php>`_ and commercially available from `Hydroptic <http://www.hydroptic.com/index.php/public/Page/home>`_, this is a camera for detection and classification of particles in water. Currently it's mostly used for studying planktons. 
 It automatically analyzes the frame and outputs a table of particle count for different size ranges. A standardized subset of this data can be transmitted back to shore in near-real-time and can even be uploaded and viewed on `EcoPART <https://ecopart.obs-vlfr.fr/>`_ depending on the level of integration as described in this document.
-There are basically two basic ways to run UVP6 on gliders. One is simply by having a pre-defined acquisition profile on UVP6 and just supplying power. The second is to have two different profiles, one for depths above 100m and one below 
+There are basically two basic ways to run UVP6 on gliders. One is simply by having a pre-defined acquisition profile on UVP6 and just supplying power. The second is to have two different profiles, one for depths above 100m and another for any depth below 100m. 
 Please note that because the shape of this sensor and the constraints for its integration (must be in the nose for the least disturbed water flow), all gliders will have a less efficient flight mostly due to the added drag. This is something that needs to be taken into account.  
 
 Seaexplorer
