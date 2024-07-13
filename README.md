@@ -7,6 +7,7 @@ My initial idea is that I would use GitHub for sharing files, ReadTheDocs for sh
 Please feel free to write me about your suggestions and if you want to join this effort, at ehs.abdi@gmail.com
 
 Here is the ReadTheDocs page: https://open-source-glider.rtfd.io
+Hackaday page: https://hackaday.io/project/196850-open-source-glider
 
 About the author
 ---------------------
