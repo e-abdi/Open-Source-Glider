@@ -27,7 +27,7 @@ Nortek which is a dominant player in ADCP market basically felt like they have p
 
 Petrel
 ============
-A glider developed by Tianjin University in China.
+A glider developed by Tianjin University in China. While everyone in the glider community trying to create a reliable deep glider that can at least dive down to 2000m, these guys have recently made a glider to reach the Mariana trench and went down to 8000m just because they couldn't aim it exactly to the trench from what I gathered, which is pretty impressive!
 
 .. image:: /images/petrel.png
 
