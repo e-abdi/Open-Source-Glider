@@ -57,6 +57,7 @@ I am an electronics engineer who has been working with commercial underwater gli
    Sensors/CTD
    Sensors/O2
    Sensors/Camera
+   Sensors/Echo-sounder
 
 .. toctree::
    :maxdepth: 2
