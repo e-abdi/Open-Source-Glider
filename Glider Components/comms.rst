@@ -14,7 +14,7 @@ I definitely recommend checking out the book  `Eccentric Orbits: The Iridium Sto
 SBD vs Rudics
 ------------------------
 
-SBD is simple packet-based service which doesn't need a SIM card and it's mostly used for global asset tracking like containers. You can use this for transferring data but it's quite unreliable and unsecure. 
+SBD is simple packet-based service which doesn't need a SIM card and it's mostly used for global asset tracking like containers. You can use this for transferring data but it's quite unreliable. 
 
 Security
 -------------
@@ -35,7 +35,7 @@ There are now even LoRa satellites in orbit so theoretically, it would be possib
 GSM
 ==============
 
-For coastal application within a few kilometers from the shore, GSM should suffice. 
+For coastal application within a few kilometers from the shore, GSM should suffice. We will explore this option first since it's much more readily accessible.
 
 Antennas
 =================
