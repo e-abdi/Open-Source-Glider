@@ -22,6 +22,7 @@ A French team has designed a low-cost float `here <https://github.com/ThomasLeMe
 Steerable
 ------------------------
 Surface Vehicles
+============================
 There are a few interesting systems in this category such as the `Waveglider <https://www.liquid-robotics.com/wave-glider/how-it-works/>`_, `Autonaut <https://www.autonautusv.com/>`_ and `Saildrone <https://www.saildrone.com/>`_ but my favorite is a a simple autonomous sail boat called `SailBuoy <http://www.sailbuoy.no>`_. This is probably one of the most elegantly designed vehicles I have seen in this field. It just does what it needs to do, efficiently and  robustly.
 
 .. image:: /images/sailbuoy.jpg
