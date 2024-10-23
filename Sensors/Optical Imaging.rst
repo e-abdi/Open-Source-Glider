@@ -1,6 +1,8 @@
 Optical Imaging
 ++++++++++++++++++++++
 
+Due to their power demand and tricky lighting conditions, cameras are not traditionally used on underwater gliders. However, some very specific cameras such as the ones mentioned below can be quite useful tools for the scientists.
+
 UVP6
 ==============
 Develosped by `LOV <https://www.obs-vlfr.fr/web/index.php>`_ and commercially available from `Hydroptic <http://www.hydroptic.com/index.php/public/Page/home>`_, this is a camera for detection and classification of particles in water. Currently it's mostly used for studying planktons. 
@@ -35,3 +37,13 @@ The software integration uses the Seaglider LogDev interface together with the `
 Shadowgraph
 ===================
 
+The famous Zooglider pioneered this imaging method on gliders. 
+
+.. image:: /images/zooglider.png
+
+
+Now there is a commercial version of this camera and it's integration is available on Slocum gliders.
+
+
+
+.. image:: /images/shadowgraph.jpg
