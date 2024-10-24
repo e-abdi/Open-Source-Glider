@@ -64,3 +64,9 @@ ADCP
 ----------------
 
 Stands for acoustic Doppler current profiler and as the name suggests, it uses the doppler shift in the received echos to determine the currents. These are usually deployed on a stationary platform such as a lander or a mooring but they have been integrated and used on all the major gliders as well. Making sense of the data they collect from a moving underwater vehicle however, is a challenging task.
+
+
+DVL
+--------------------
+
+Stands for doppler velocity logger, and it uses yet again the doppler shift to keep track of speed and direction of an underwater vehicle relative to a solid object such as the sea bottom or ice.
