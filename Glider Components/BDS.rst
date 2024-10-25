@@ -7,7 +7,7 @@ Piston Design
 ------------------
 This is basically a large piston that displaces sea water to achieve buoyancy change. This design is much simpler and usually achieves quicker displacement but it's less efficient the deeper you go. So generally is used for gliders that dive down to around 200m but any deeper design, uses a bladder.
 
-In Slocum, they use a 90-watt motor and a rolling diaphragm seal to achieve this.
+In Slocum, they use a 90-watt motor and a rolling diaphragm seal is used to achieve this.
 
 Rolling Diaphragm
 ************************
