@@ -47,12 +47,12 @@ The most basic type of sonar used for detecting the bottom and other targets thr
 Multibeam
 --------------------
 
-These systems use hundreds of beams to get a three dimensional mapping of both seabed and the water column.
+These systems use hundreds of beams to get a three dimensional mapping of both seabed and the water column. 
 
 Side-scan sonar
 --------------------
 
-These sensors have a transducer array which sends and receives acoustic pulses as it's being towed underneath or behind a vessel at a constant speed. Doing this they can reconstruct an image of the received echos that represents the seafloor and what's on it using dark and bright areas. 
+These sensors have a transducer array which sends and receives acoustic pulses as it's being towed underneath or behind a vessel at a constant speed. Doing this they can reconstruct an image of the received echos that represents the seafloor and what's on it using dark and bright areas. This is mainly used to cover a large area relatively quickly and inexpensively when looking for a specific feature such as a shipwreck.
 
 
 Sub-buttom profiler
