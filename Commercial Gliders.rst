@@ -48,7 +48,7 @@ A glider developed by Tianjin University in China. While everyone in the glider 
 
 Spray
 ==============
-Developed jointly by Scripps and WHOI. One of the original three which was not commercialized. But recently the licence has been given to MRV-Systems who have commercialized it under Spray2 with some modifications. One major modification is that the pressure hull is much larger than other gliders, something similar to Sentinel glider under development by Teledyne. An interesting design of Spray is that its antenna is situated in its wing, so at surface it rolls to one side to stick its wing out of the water and initiate a call, which is cute!
+Developed jointly by Scripps and WHOI. One of the original three which was not commercialized. An interesting design of Spray is that its antenna is situated in its wing, so at surface it rolls to one side to stick its wing out of the water and initiate a call, which is cute!
 
 .. image:: /images/spray.jpg
 
