@@ -1,6 +1,6 @@
 Acoustics
 ++++++++++
-Electromagnetic waves get severely attenuated in salt water so sound is the name of the game for communication, navigation and object detection and characterization underwater. For a fantastic deep dive into the science of sound in the sea I recommend taking a look at `this <https://dosits.org/>`_ website.
+Electromagnetic waves get severely attenuated in salt water so sound is the name of the game for communication, navigation and object detection and characterization underwater. For a fantastic deep dive into the science of sound in the sea I recommend taking a look at `this <https://dosits.org/>`_ website. Also `Blue Robotics <https://bluerobotics.com/learn/a-smooth-operators-guide-to-underwater-sonars-and-acoustic-devices/>`_ has a great guide about acoustics.
 
 
 Passive
