@@ -59,3 +59,7 @@ There is a partial vacuum inside the glider. This serves a few purposes:
 - Sucking all the seal joints together, creating a tighter seal
 - By monitoring the internal pressure we will know right away if there is a leak somewhere. 
 - In order to get oil from external bladder inside the glider, we just open a solenoid valve and the air pressure pushes the oil inside so we save power on pumping
+
+.. image:: /images/parts.png
+
+    
