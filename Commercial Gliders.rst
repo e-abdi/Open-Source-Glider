@@ -2,7 +2,7 @@ Commercial Gliders
 +++++++++++++++++++++++++
 Slocum
 ===============
-Developed by Teledyne Webb. A very professional and robust hardware especially in the last G3 generation thanks to the number of units they have sold dominating the USA market and having time to perfect the design but kind of unnecessarily complicated and not at all flexible on the software side, at least from my perspective. It's also a hassle to integrate your own sensors on them, however the new Back Seat Driver feature, has made this easier at least on the software side. If you are operating in a coastal environment with strong currents, their shallow glider with a thruster is a great option! 
+Developed by Teledyne Webb. A very professional and robust hardware especially in the last G3 generation thanks to the number of units they have sold dominating the USA market and having time to perfect the design but kind of unnecessarily complicated and not at all flexible on the software side, at least from my perspective. If you are operating in a coastal environment with strong currents, their shallow glider with a thruster is a great option! 
 Slocum is named after Joshua Slocum, the first person to sail single-handedly around the world, averaging 1 knot speed which is the maximum speed of the gliders.
 
 .. image:: /images/slocum.png
