@@ -69,4 +69,4 @@ Stands for acoustic Doppler current profiler and as the name suggests, it uses t
 DVL
 --------------------
 
-Stands for doppler velocity logger, and it uses yet again the doppler shift to keep track of speed and direction of an underwater vehicle relative to a solid object such as the sea bottom or ice.
+Stands for doppler velocity logger, and it uses yet again the doppler shift to keep track of speed and direction of an underwater vehicle relative to a solid object such as the seafloor or ice.
