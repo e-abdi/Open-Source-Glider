@@ -21,3 +21,4 @@ While Seagliders usually need a deeper pool, since you need to check their surfa
 My favorite way of doing this is to get in the water with glider in a deep enough area with easy access. 
 
 .. image:: /images/SeagliderBallast.png
+    :width: 400
