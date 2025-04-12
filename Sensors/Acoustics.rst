@@ -38,7 +38,7 @@ Active
 Echo-sounder
 --------------
 
-The most basic type of sonar used for detecting the bottom and other targets throughout the water column such as fish
+The most basic type of sonar used for detecting the bottom and other targets throughout the water column such as fish.
 
 
 
@@ -47,7 +47,7 @@ The most basic type of sonar used for detecting the bottom and other targets thr
 Multibeam
 --------------------
 
-These systems use hundreds of beams to get a three dimensional mapping of both seabed and the water column. 
+These systems use hundreds of beams to get a three dimensional mapping of both seabed and the water column. They are very power-hungry and need accurate positioning therefore are not really suitable for gliders.
 
 Side-scan sonar
 --------------------

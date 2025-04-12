@@ -7,12 +7,12 @@ Piston Design
 ------------------
 This is basically a large piston that displaces sea water to achieve buoyancy change. This design is much simpler and usually achieves quicker displacement but it's less efficient the deeper you go. So generally is used for gliders that dive down to around 200m but any deeper design, uses a bladder.
 
-In Slocum, they use a 90-watt motor and a rolling diaphragm seal is used to achieve this.
+In Slocum, they use a 90-watt motor and a rolling diaphragm to achieve this.
 
 Rolling Diaphragm
 ************************
 
-A rolling diaphragm is a type of seal in which most of the pressure is supported by the piston head and only a very small amount of pressure is exerted on the narrow convolution between the piston and cylinder. I believe this has a lot of advantages on its alternative which is a piston seal and that's why it's the preferred method. In a piston seal, tolerances are really important and lubrication is necessary. 
+A rolling diaphragm is a type of seal in which most of the pressure is supported by the piston head and only a very small amount of pressure is exerted on the narrow convolution between the piston and cylinder. I believe this has a lot of advantages on its alternative which is a piston seal and that's why it's the preferred method. In a piston seal, tolerances are really important and lubrication is necessary so this is not a good fit for our application. 
 
 .. image:: /images/rollingdiaphragm.png
 

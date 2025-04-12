@@ -2,7 +2,7 @@ CTD
 ++++++++++
 Stands for Conductivity, Temperature and Depth. This is a standard sensor on all gliders. Conductivity can be used in conjunction with temperature and depth to measure water salinity.
 The most common method of measurement is the use of a conductivity cell in which seawater flows through two electrodes. Applying a voltage to this electrodes results in a current proportional to water salinity.
-Seabird has been the dominent manufacturer of CTDs for many years now and they produce extremely accurate sensors, but it's not the best design and service for gliders.
+Seabird has been the dominent manufacturer of CTDs for many years now and they produce extremely accurate sensors, but they don't have the best design and service for gliders.
 
 .. image:: /images/CTsail.png
 

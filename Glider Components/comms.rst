@@ -14,7 +14,8 @@ I definitely recommend checking out the book  `Eccentric Orbits: The Iridium Sto
 SBD vs Rudics
 ------------------------
 
-SBD is simple packet-based service which doesn't need a SIM card and it's mostly used for global asset tracking like containers. You can use this for transferring data but it's quite unreliable. 
+SBD is simple packet-based service which doesn't need a SIM card and it's mostly used for global asset tracking like containers. You can use this for transferring small amount of data.
+Iridium is a circuit switched data transfer method used for sending larger data. All gliders except for the OceanScout use this method. It's more reliable but it comes with a higher cost and more power consumption.
 
 Security
 -------------
@@ -25,7 +26,7 @@ Iridium comms are not secure. A group in Germany has decoded the data and publis
 Argos
 ===============
 
-Another constellation used mostly for animal tracking but used on gliders as a backup system. The localization method is based on doppler effect so it's quite low accuracy but good last resort! The new generation of trackers actually use GPS for more location accuracy and actually use the satellites for data transmission. Apparently you can even sent a few other bytes alongside the GPS lines which could be interesting in our case! but haven't tried this yet.
+Another constellation used mostly for animal tracking but used on gliders as a backup system. The localization method is based on doppler effect so it's quite low accuracy but a good last resort! The new generation of trackers actually use GPS for more location accuracy and actually use the satellites for data transmission. Apparently you can even sent a few more bytes alongside the GPS lines which could be interesting in our case! but haven't tried this yet.
 
 LoRa
 ===========

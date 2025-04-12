@@ -2,9 +2,10 @@ Pressure hull
 +++++++++++++++++
 
 Seaglider pressure hull is made from several pieces of machined 6061 aluminium whereas Slocum uses carbon fiber hulls.  
-Carbon fiber composites generally are not well know for their compressive strength. They work best in tension like for airplanes where they are pressurized from inside. Read `this paper <https://www.mdpi.com/2077-1312/10/10/1456>`_ for more info.
-Since glider are going through consecutive cycles, these need to be rigorously fatigue tested, otherwise could easily lead to an implosion like the infamous `titan incident <https://en.wikipedia.org/wiki/Titan_submersible_implosion>`_.
-In fact catastrophic pressure housing failure could be the cause of many suspicious Slocum disappearances throughout the years.
+Carbon fiber composites generally are not well known for their compressive strength. They work best in tension like for airplanes where they are pressurized from inside. Read `this paper <https://www.mdpi.com/2077-1312/10/10/1456>`_ for more info.
+Since glider are going through consecutive cycles, these need to be rigorously fatigue tested and acoustically inspected fairly regularly for any cracks, otherwise could easily lead to an implosion like the infamous `titan incident <https://en.wikipedia.org/wiki/Titan_submersible_implosion>`_.
+Catastrophic pressure housing failure could be the cause of many suspicious Slocum disappearances throughout the years.
+SeaExplorers and OceanScouts also have aluminium hulls.
 
 Seals
 ---------------
