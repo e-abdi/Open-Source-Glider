@@ -4,7 +4,7 @@ Similar Projects
 Here are some of the similar projects I found. We can try to join forces or simply learn from them.
 
 .. list-table:: Title
-   :widths: 50 25 50
+   :widths: 25 25 50
    :header-rows: 1
 
    * - Project Name
