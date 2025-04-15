@@ -37,7 +37,7 @@ They have just recently released a new version of their glider called sgx which 
 
 Oceanscout
 ==============
-Nortek which is a dominant player in ADCP market basically felt like they have pushed ADCPs as far as they could and afraid of loosing their bright engineers out of boredom, decided to start something totally new! building gliders! They seem to be focusing on basic physical oceanography and passive acoustic so far. Small form factor gliders so ideal for some swarm action! They have an interesting design where they flip 180 degrees and climb upside down to invert the lift vector and maintain a constant glide angle. Their glider is smaller and therefore much cheapter than the other three.
+Nortek which is a dominant player in ADCP market basically felt like they have pushed ADCPs as far as they could and afraid of loosing their bright engineers out of boredom, decided to start something totally new! building gliders! They seem to be focusing on basic physical oceanography and passive acoustic so far. It's a small form factor glider so quite a bit cheaper and one person deployable. It also seems to be extremely easy to use and pilot but then lacking flexibility. They have an interesting design where they flip 180 degrees and climb upside down to invert the lift vector and maintain a constant glide angle.
 
 .. image:: /images/oceanscout.jpeg
 
@@ -53,7 +53,7 @@ Developed jointly by Scripps and WHOI. One of the original three which was not c
 
 .. image:: /images/spray.jpg
 
-The new version of this glider is called Spray2 which is similar to Sentinel glider in terms of size and it's being commercialized by `MRV <https://www.mrvsys.com/>`_.
+The new version of this glider is called Spray2 has gone through some upgrades and it's being commercialized by `MRV <https://www.mrvsys.com/>`_.
 
 
 .. image:: /images/spray2.png
