@@ -49,7 +49,11 @@ Active
 Echo-sounder
 --------------
 
-The most basic type of sonar used for detecting the bottom and other targets throughout the water column such as fish.
+An echo-sounder is kind of like the ocean’s version of echolocation—it sends sound pulses down into the water and listens for the echoes that bounce back. By measuring how long it takes for the sound to return, it can figure out how deep the water is or what’s in it.
+
+Scientific echosounders are used for way more than just measuring depth—they help researchers map the seafloor, track fish, study plankton, and even look at bubbles or layers of water with different properties.
+
+The well-known EK80 Echosounder which is the industry standard for scientific research has been integrated on both Seaglider and Slocums and it's also going to be integrated on SeaExplorers.
 
 
 .. image:: /images/ek80.png
@@ -58,23 +62,25 @@ The most basic type of sonar used for detecting the bottom and other targets thr
 Multibeam
 --------------------
 
-These systems use hundreds of beams to get a three dimensional mapping of both seabed and the water column. They are very power-hungry and need accurate positioning therefore are not really suitable for gliders.
+A multibeam is like a fancy version of an echo-sounder. Instead of just sending one sound pulse straight down, it sends out a whole fan-shaped spread of sound beams across the seafloor. That way, it can cover a wide area all at once. Scientists use multibeam systems to make super detailed 3D maps of the ocean floor. They are very power-hungry and need accurate positioning therefore are not really suitable for gliders.
 
 Side-scan sonar
 --------------------
 
-These sensors have a transducer array which sends and receives acoustic pulses as it's being towed underneath or behind a vessel at a constant speed. Doing this they can reconstruct an image of the received echos that represents the seafloor and what's on it using dark and bright areas. This is mainly used to cover a large area relatively quickly and inexpensively when looking for a specific feature such as a shipwreck.
+Side-scan sonar is like giving the ocean floor a sideways glance. Instead of looking straight down, it sends out sound waves to the sides—kind of like sweeping a flashlight beam across a dark room. It doesn't measure depth directly, but it gives you a detailed image of the seafloor’s texture. It has a transducer array which sends and receives acoustic pulses as it's being towed underneath or behind a vessel at a constant speed. Doing this they can reconstruct an image of the received echos that represents the seafloor and what's on it using dark and bright areas. This is mainly used to cover a large area relatively quickly and inexpensively when looking for a specific feature such as a shipwreck.
 
 
 Sub-buttom profiler
 ---------------------------
 
-A system used to penetrate the seafloor and provide an image of subsurface geological layers. Again not typically applicable on gliders, however the fact that gliders get closer to seafloor should in theory make this more efficient.
+A system used for sending sound pulses down into the seabed, and instead of just bouncing off the surface, those pulses actually penetrate below it. The echoes that come back tell us about the different layers of mud, sand, rock, or whatever’s hiding under the bottom. 
+Again not typically applicable on gliders, however the fact that gliders get closer to seafloor should in theory make this more efficient.
 
 ADCP
 ----------------
 
-Stands for acoustic Doppler current profiler and as the name suggests, it uses the doppler shift in the received echos to determine the currents. These are usually deployed on a stationary platform such as a lander or a mooring but they have been integrated and used on all the major gliders as well. Making sense of the data they collect from a moving underwater vehicle however, is a challenging task.
+An ADCP—short for Acoustic Doppler Current Profiler—is like a speed radar for ocean currents. It sends out sound waves and measures how they bounce off tiny particles in the water. Thanks to the Doppler effect, it can figure out how fast the water is moving and in which direction—at different depths.
+They have been integrated on all major gliders but making sense of the data they collect from a moving underwater vehicle, is a challenging task.
 SeaExplorers seem to have a pretty good solution for the data analysis.
 
 .. image:: /images/adcp.png
