@@ -85,4 +85,4 @@ DVL
 Stands for doppler velocity logger, and it uses yet again the doppler shift to keep track of speed and direction of an underwater vehicle relative to a solid object such as the seafloor. A team at WHOI have tried using this for under ice navigation.
 
 
-.. image:: /images/dvl.jpg
+.. image:: /images/dvl.png
