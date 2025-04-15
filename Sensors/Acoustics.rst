@@ -28,9 +28,20 @@ Jasco
 ^^^^^^^^^^^^^^^^^^^^^^^^
 They have the most advanced but then also the most expensive hydrophone systems like the `Ocean Observer <https://www.jasco.com/oceanobserver>`_. 
 
+.. image:: /images/jasco.png
+
+DMON 
+^^^^^^^^^^^^^^^^^^
+A neat system developed by Mark Baumgartner from WHOI for autonomous detection and classification of marine mammals. You can find more info `here <https://robots4whales.whoi.edu/>`_ and there seem to be a commercial version called `DMON2 <https://apps.dtic.mil/sti/pdfs/AD1013952.pdf>`_ soon available.
+
+.. image:: /images/dmon.jpg
+
+
 Hydrophone array
 --------------------
 Hydrophones are usually omnidirectional so in order to get a bearing on the sound source, you either need to use something like a `vector sensor <https://dosits.org/galleries/technology-gallery/basic-technology/vector-sensors/>`_ (which is basically impossible to get a hold of one of these because of their military application) or you could use multiple hydrophones. In order to localize a source three dimensions, you need at least four hydrophones. 
+
+.. image:: /images/array.png
 
 Active
 ==================
@@ -41,7 +52,7 @@ Echo-sounder
 The most basic type of sonar used for detecting the bottom and other targets throughout the water column such as fish.
 
 
-
+.. image:: /images/ek80.png
 
 
 Multibeam
@@ -58,15 +69,20 @@ These sensors have a transducer array which sends and receives acoustic pulses a
 Sub-buttom profiler
 ---------------------------
 
-A system used to penetrate the seafloor and provide an image of subsurface geological layers. 
+A system used to penetrate the seafloor and provide an image of subsurface geological layers. Again not typically applicable on gliders, however the fact that gliders get closer to seafloor should in theory make this more efficient.
 
 ADCP
 ----------------
 
 Stands for acoustic Doppler current profiler and as the name suggests, it uses the doppler shift in the received echos to determine the currents. These are usually deployed on a stationary platform such as a lander or a mooring but they have been integrated and used on all the major gliders as well. Making sense of the data they collect from a moving underwater vehicle however, is a challenging task.
+SeaExplorers seem to have a pretty good solution for the data analysis.
 
+.. image:: /images/adcp.png
 
 DVL
 --------------------
 
-Stands for doppler velocity logger, and it uses yet again the doppler shift to keep track of speed and direction of an underwater vehicle relative to a solid object such as the seafloor or ice.
+Stands for doppler velocity logger, and it uses yet again the doppler shift to keep track of speed and direction of an underwater vehicle relative to a solid object such as the seafloor. A team at WHOI have tried using this for under ice navigation.
+
+
+.. image:: /images/dvl.jpg
