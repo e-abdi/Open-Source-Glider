@@ -58,6 +58,7 @@ I am an electronics engineer who has been working with commercial underwater gli
    Sensors/O2
    Sensors/Optical Imaging
    Sensors/Acoustics
+   Sensors/Microstructure
 
 .. toctree::
    :maxdepth: 2
