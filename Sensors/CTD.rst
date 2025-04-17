@@ -8,6 +8,8 @@ Seabird has been the dominent manufacturer of CTDs for many years now and they p
 
 Another newer method of measuring conductivity is by using an inductive conductivity cell where instead of directly measuring the resistance, the sensor measure changes in the electric field inside a toroidal coil. 
 RBR which manufactures some other excellent sensors, seems to have the new CT of choice for gliders!
+These are much easier to install and remove (at least from Seagliders) and have a much quicker calibration time. RBR offers a Three-or-Free calibration guarantee where if they don't manage to calibrate these within three weeks, it's free of charge! Whereas Seabird calibration can often take anywhere from three months to a year!
+Another advantage is that these won't get mistaken for a handle on Seagliders!
 
 .. image:: /images/legato.png
 

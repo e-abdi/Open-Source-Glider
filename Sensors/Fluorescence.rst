@@ -12,6 +12,6 @@ The most widely used optical sensor on gliders is the `ECO Triplet <https://www.
 
 .. image:: /images/triplet.jpeg
 
-Again these are being replaced by `RBR Tridente <https://rbr-global.com/products/sensors/rbrtridente/>`_.
+Again these are slowly being replaced by the `RBR Tridente <https://rbr-global.com/products/sensors/rbrtridente/>`_.
 
 .. image:: /images/tridente.jpg
