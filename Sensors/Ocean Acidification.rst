@@ -25,5 +25,6 @@ I've helped integrating this on a Seaglider and the results can be found in `thi
 
 They have a new version of this sensor which measure both of these variables and uses a thruster instead of a pump!
 
-.. image:: /images/New HydroC.jpg
+.. image:: /images/HydroC.jpg
+
 
