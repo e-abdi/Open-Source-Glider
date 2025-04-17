@@ -1,20 +1,20 @@
 Background
 ++++++++++++++
-For people who are not coming from Ocean Studies background (as this was the case for me), it might be useful to start with a basic introduction to different types of platforms and systems used to study the oceans. This will help appreciating the gliders for the amazing tool they are but also knowing their limitation. 
+For people who are not coming from Ocean Studies background (as this was the case for me), it might be useful to start with a basic introduction to different types of platforms and systems used to study the oceans. This will help appreciating the gliders for the amazing tool they are but also knowing their limitations. 
 
 Stationary
 ==============
-The simplest type of stationary platform is a buoy held at the same position with an anchor. These are widely used as weather stations.
-A mooring is basically a structure with an anchor that can have a surface buoy or it can be completely submerged with sensors at several depths and then recovered using some kind of release mechanism.
-A lander is a type of mooring that basically just sits on the seafloor and measures some variable such as currents.
+The simplest type of stationary platform is a buoy, which is held in place by an anchor. Buoys are primarily used for marking locations, but if they are equipped with sensors, they can also function as weather stations, especially in coastal areas.
+A mooring is a structure anchored to the seafloor that may have a surface buoy or be completely submerged. It often carries sensors at various depths and is typically recovered using a release mechanism.
+A lander is a type of mooring that rests directly on the seafloor and measures environmental variables, such as currents.
 
 Moving
 ================
 Non-steerable
 -------------------
-The simplest kind of moving platform is called a drifter. It's basically a buoyant structure that drifts on the water surface with currents and transmits information such as it's location at some specified intervals.  Check out `this <https://www.onelessbottle.org/oceantracking/>`_ project where they used a simple water bottle as a drifter. 
+The simplest kind of moving platform is called a drifter. It’s essentially a buoyant structure that floats on the water surface, drifting with currents, and transmits information such as its location at specified intervals.  Check out `this <https://www.onelessbottle.org/oceantracking/>`_ project where they used a simple water bottle as a drifter. 
 
-A float is a device that can monitor water column by changing its buoyancy and basically floating up and down with no steering capability. Probably the best example of standardization in the ocean is the `Argo <https://en.wikipedia.org/wiki/Argo_(oceanography)>`_ float program where they have standards in everything. All the way from hardware to data. 
+A float is a device that monitors the water column by changing its buoyancy, allowing it to float up and down without any steering capability. Probably the best example of standardization in oceanography is the `Argo program <https://en.wikipedia.org/wiki/Argo_(oceanography)>`_ where they have standardized everything. All the way from hardware to data. 
 A French team has designed a low-cost float `here <https://github.com/ThomasLeMezo/seabot/tree/master>`_.
 
 .. image:: /images/argo.jpg
@@ -31,16 +31,22 @@ Subsea vehicles
 ============================
 Tethered
 -------------------
-ROV is probably the best known ocean-going platform since it's basically an underwater drone.
+An ROV (Remotely Operated Vehicle) is probably the best-known type of ocean platform, often described as an underwater drone. Because ROVs are connected to a surface ship or platform by a tether, they can achieve precise localization and stable hovering. This makes them ideal for tasks that require high precision, such as offshore construction, equipment inspection, and underwater repairs.
 
 
 .. image:: /images/bluerov.jpg
 
 Untethered
 -------------------------
-These are called Autonomous Underwater Vehicles or AUVs. AUVs usually have one or more propeller and some kind of acoustic navigation system. They are usually used for short missions (one day to a week or so) to cover a relatively large area with precision. 
+These are called Autonomous Underwater Vehicles or AUVs. AUVs usually have one or more propeller and some kind of acoustic navigation system. They are usually used for short missions (few hours to a week or so) to cover a relatively large area with precision. 
 
 .. image:: /images/auv.jpg
+
+There seem to be many educational AUV projects, a few of which are listed below:
+
+* `The MIT Sea Scout <https://oceanai.mit.edu/pavlab/pdfs/proj_seascout.pdf>`_
+* `CPSdrone AUV <https://youtu.be/h1Fw6ZvO_h4?si=z4zoR22lJLV2wuVB>`_
+
 
 A glider is considered a type of AUV, but the main differences are that:
 

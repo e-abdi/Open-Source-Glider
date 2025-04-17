@@ -1,5 +1,6 @@
 Acoustics
-++++++++++
+++++++++++++++++++++++++++
+
 Electromagnetic waves get severely attenuated in salt water so sound is the name of the game for communication, navigation and object detection and characterization underwater. For a fantastic deep dive into the science of sound in the sea I recommend taking a look at `this <https://dosits.org/>`_ website. Also `Blue Robotics <https://bluerobotics.com/learn/a-smooth-operators-guide-to-underwater-sonars-and-acoustic-devices/>`_ has a great guide about acoustics.
 
 
@@ -57,6 +58,9 @@ The well-known EK80 Echosounder which is the industry standard for scientific re
 
 
 .. image:: /images/ek80.png
+
+
+`This guy <https://www.youtube.com/@Neumi>`_ is working on a low-cost open-source version.
 
 
 Multibeam

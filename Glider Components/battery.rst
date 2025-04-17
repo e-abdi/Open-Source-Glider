@@ -8,14 +8,15 @@ Also it usually is a nightmare to ship large lithium packs therefore a pack desi
 
 
 Lithium Primary
-=========
+================
 Generally has around twice volumetric energy density compared to rechargeable options so this is the preferred option for long deployments.
 The popular cells in marine domain (at least ones more accessible in EU) are Saft specifically the LS33600 and LSH20 cells.  
 Both Seagliders and Slocums use Electrochem cells in their packs. 
 
 
 Lithium Rechargeable
-==============
+====================
+
 Both Slocum and SeaExplorer offer a rechargeable batteries which is quite convenient for certain types of operation. 
 I have also created a custom rechargeable pack for Seagliders which was convenient for doing short tests.
 
