@@ -56,6 +56,7 @@ I am an electronics engineer who has been working with commercial underwater gli
 
    Sensors/CTD
    Sensors/O2
+   Sensors/Fluorescence
    Sensors/Optical Imaging
    Sensors/Acoustics
    Sensors/Microstructure
