@@ -39,7 +39,7 @@ A neat system developed by Mark Baumgartner from WHOI for autonomous detection a
 
 Hydrophone array
 --------------------
-Hydrophones are usually omnidirectional so in order to get a bearing on the sound source, you either need to use something like a `vector sensor <https://dosits.org/galleries/technology-gallery/basic-technology/vector-sensors/>`_ (which is basically impossible to get a hold of one of these because of their military application) or you could use multiple hydrophones. In order to localize a source three dimensions, you need at least four hydrophones. 
+Hydrophones are usually omnidirectional so in order to get a bearing on the sound source, you either need to use something like a `vector sensor <https://dosits.org/galleries/technology-gallery/basic-technology/vector-sensors/>`_ (which is basically impossible to get a hold of one because of their military application) or you could use multiple hydrophones. In order to localize a source three dimensions, you need at least four hydrophones. 
 
 .. image:: /images/array.png
 
