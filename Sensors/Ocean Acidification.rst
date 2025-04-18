@@ -31,7 +31,7 @@ SeaExplorers have the `Franatech Methane sensor <https://www.franatech.com/mets_
 
 .. image:: /images/Franatech.jpg
 
-Currently the most interesting PH sensor for gliders is the ANB PH sensor in my opinion. It has a small size and has an interesting method of keeping track of the sensor drift and therefore not needing calibration!  
+Currently the most interesting PH sensor for gliders is the `ANB PH sensor <https://www.anbsensors.com/>`_ in my opinion. It has a small size and has an interesting method of keeping track of the sensor drift and therefore not needing calibration!  
 
 .. image:: /images/ANB.png
 
