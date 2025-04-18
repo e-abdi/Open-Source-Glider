@@ -5,3 +5,4 @@ Useful for locating the glider especially when it's dark. But you need to be abl
 Seaexplorer and Oceanscout both have a nice strobe solution which is built into the antenna. Slocum has a small one next to their antenna. Seaglider does not come with a strobe, so you need to install your own if you need one.
 
 .. image:: /images/Strobe.jpg
+    :width: 400

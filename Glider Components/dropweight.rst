@@ -7,4 +7,5 @@ In our design, we can make use of a `Nichrome burn wire mechanism <https://esmat
 
 
 .. image:: /images/DropWeight.jpg
+    :width: 400
 
