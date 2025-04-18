@@ -27,4 +27,12 @@ They have a new version of this sensor which measure both of these variables and
 
 .. image:: /images/HydroC.jpg
 
+SeaExplorers have the `Franatech Methane sensor <https://www.franatech.com/mets_methane_sensor.html>`_ and `ProOceanus CO2 <https://pro-oceanus.com/products/mini-series/mini-co2>`_ integrated but apart from some results on areas with high concentration of methane and CO2 such as above an `active underwater volcano <https://www.researchgate.net/publication/360839100_Real-Time_and_Continuous_Monitoring_of_Submarine_Volcanism_with_a_Seaexplorer_Glider_Perspective_for_Carbon_Storage_Monitoring>`_ and the `Nord Stream gas pipeline sabotage <https://en.wikipedia.org/wiki/Nord_Stream_pipelines_sabotage>`_ I have not seen any scientific results with these so I am a bit sceptical about the quality of these sensors.
+
+.. image:: /images/Franatech.jpg
+
+Currently the most interesting PH sensor for gliders is the ANB PH sensor in my opinion. It has a small size and has an interesting method of keeping track of the sensor drift and therefore not needing calibration!  
+
+.. image:: /images/ANB.png
+
 
