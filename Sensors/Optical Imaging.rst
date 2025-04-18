@@ -12,7 +12,7 @@ Please note that because the shape of this sensor and the constraints for its in
 
 Seaexplorer
 -----------
-This integration was the earliest to be finalized and therefore is the most mature. Mostly because of the proximity of Alsemar to the Hydroptic, the sensor manufacturer.
+This integration was the earliest to be finalized and therefore is the most mature, mainly because of the proximity of Alsemar to the Hydroptic, the sensor manufacturer.
 They have both a very good mechanical integration and full software integration for real-time data.
 
 .. image:: /images/uvpseaex.png
