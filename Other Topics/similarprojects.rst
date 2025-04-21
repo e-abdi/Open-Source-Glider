@@ -29,4 +29,11 @@ GlideX
 https://youtu.be/sF4YcQr8duc?si=HskKbBRdG0BCvBp1
 
 Admirable effort but I can't find any updates or follow-ups
+
+RC Submarines
+-------------------
+
+https://www.rc-submarine.com/
+
+There is a rich community working on RC submarines which we can learn quite a lot from.
     
