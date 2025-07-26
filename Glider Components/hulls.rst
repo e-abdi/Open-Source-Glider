@@ -16,7 +16,7 @@ There are generally two types of seals used in underwater housing. Face (or flan
 
 Pressure Relief Valve
 -----------------------
-This is an important component of any subsea housing containing batteries. Batteries can produce gas (especially when they fail) which can cause a pressure to build up inside a pressure housing. This can be extremely dangerous and casue massive explosions. To avoid this, use of a pressure relief valve is essential. Seagliders uses these but Slocums for some reason don't!
+This is an important component of any subsea housing containing batteries. Batteries can produce gas (especially when they fail) which can cause a pressure to build up inside a pressure housing. This can be extremely dangerous and casue massive explosions. To avoid this, use of a pressure relief valve is essential. Seagliders use these but Slocums for some reason don't!
 
 .. image:: /images/pressure_relief.jpg
 

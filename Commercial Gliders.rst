@@ -2,18 +2,18 @@ Commercial Gliders
 +++++++++++++++++++++++++
 Slocum
 ===============
-Developed by Teledyne Webb. A very professional and robust hardware especially in the last G3 generation thanks to the number of units they have sold dominating the USA market and having time to perfect the design but kind of unnecessarily complicated and not at all flexible on the software side, at least from my perspective. If you are operating in a coastal environment with strong currents, their shallow glider with a thruster is a great option! 
+Developed by Teledyne Webb, has a very professional (looking) and robust hardware especially in the latest G3 generation. Thanks to the number of units they have sold, dominating the USA market giving them time to improve the design. However, they are extremely poor on the software side and seem to just patch problems instead of solving them. They are excellent for shallow coastal operations, but rather inefficient for long endurance open-ocean studies . If you are operating in a coastal environment with strong currents, I definitely recommend their shallow glider especially with the optional thruster!
 Slocum is named after Joshua Slocum, the first person to sail single-handedly around the world, averaging 1 knot speed which is the maximum speed of the gliders.
 
 .. image:: /images/slocum.png
 
-Their new glider is called Sentinel and it's massive! No longer two person operable but with a great endurance and payload capabilities.
+Their new glider is called Sentinel and it's massive! No longer two person operable but supposedly with a great endurance and payload capabilities.
 
 .. image:: /images/sentinel.png
 
 Seaexplorer
 ===================
-Apple of the glider world, great product with a sleek user interface. Developed by Alseamar a massive French company in Subsea domain many years after the original three gliders so they had plenty of time to learn from them. They are a major part of glider competition because they have quite a strong marketing strategy and provide quite a good cutomer service. Although this is a great product, I feel since they are simply after selling more units and dominating the glider market, their claims are usually over-exaggerated or what they brag about, is either not as good as it sounds or already done by other glider teams. Either way, if you want a glider that is very simple to use with minimal training then go for this one. But beware that you will be sucked into their echo-system. Unless you buy a Seaexplorer directly from them, you will likely not be able to touch or work with one of their units, therefore most of the information presented here is based on Seaglider and Slocum which I have personally worked with.
+Apple of the glider world, great product with a sleek user interface. Developed by Alseamar a massive French company in Subsea domain and many years after the original three gliders so they had plenty of time to learn from the others. They are selling quite a lot of units because they have quite a strong marketing strategy and provide a descent customer service. Although this is a great product, I feel since they are simply after selling more units and dominating the glider market, their claims are usually over-exaggerated or what they brag about, is either not as good as it sounds or already done by other glider teams. Either way, if you want a glider that is very simple to use with minimal training then go for this one. But beware that you will be sucked into their echo-system. Unless you buy a Seaexplorer, you will likely not be able to touch or work with one of their units, therefore most of the information presented here is based on Seaglider and Slocum which I have personally worked with.
 
 
 .. image:: /images/seaexplorer.jpg
@@ -25,12 +25,12 @@ An interesting fact about their design is that apparently the short wings make i
 
 Seaglider 
 ===================
-Developed by `APL <https://iop.apl.washington.edu/seaglider.php>`_ at University of Washington and ever since the development, their team has been the major user with largest fleet of Seagliders. All the development is still happening at the UW. They have been prioritizing good quality of scientific data with an outstanding efficiency. They used to say "half a knot on half a Watt", and as a long time user I can testify to that. From my experience with other gliders and from the numbers I have seen, I doubt any other glider can come anywhere close to that. An example of how efficiency was one of their main design goals, is the signature isopycnal hull they use. The idea is that this design has the same compressability factor as the sea water and therefore the glider will keep the same density difference with water as it descends or ascends and therefore there is no need for any buoyancy adjustments to maintain a constant vertical speed. This makes the design 10% more efficient than a simple cylindrical design. But perhaps the most important advantage of Seagliders over the other ones, at least for me, was that the software is very robust and very well written and that it allows users to integrate quite complex sensors, simply by writing a short driver file for them. 
+Developed by `APL <https://iop.apl.washington.edu/seaglider.php>`_ at University of Washington and ever since the development, their team has been the major user with largest fleet of Seagliders. All the development is still happening at the UW. They have been prioritizing good quality of scientific data with an outstanding efficiency. They say "half a knot on half a Watt", and as a long time user I can testify to that. From my experience with other gliders and from the numbers I have seen, I doubt any other glider can come anywhere close to that. An example of how efficiency was one of their main design goals, is the signature isopycnal hull they use. The idea is that this design has the same compressability factor as the sea water and therefore the glider will keep the same density difference with water as it descends or ascends and therefore there is no need for any buoyancy adjustments to maintain a constant vertical speed. This makes the design 10% more efficient than a simple cylindrical design. Another advantage of Seagliders over the other gliders,is that the software is very robust and well written.
 What Seaglider lacked and still lacks today is a proper business behind them to develop and market it properly but that was never their goal in the first place. If you need a reliable deep glider with great performance, and you want to get nerdy with your glider operation, then go for this option!
 
 .. image:: /images/seaglider.jpg
 
-They have just recently released a new version of their glider called sgx which is supposed to be even better!
+They have just recently released a new version of their glider called SGX which has 60% more endurance and a bunch of other improvements!
 
 .. image:: /images/SGX.png
 
