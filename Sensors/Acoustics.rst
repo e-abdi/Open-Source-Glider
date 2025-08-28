@@ -3,6 +3,9 @@ Acoustics
 
 Electromagnetic waves get severely attenuated in salt water so sound is the name of the game for communication, navigation and object detection and characterization underwater. For a fantastic deep dive into the science of sound in the sea I recommend taking a look at `this <https://dosits.org/>`_ website. Also `Blue Robotics <https://bluerobotics.com/learn/a-smooth-operators-guide-to-underwater-sonars-and-acoustic-devices/>`_ has a great guide about acoustics.
 
+`This paper <https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2023.1106533/full>`_ looks at the use of gliders for acoustic monitoring of the oceans.
+
+.. image:: /images/acoustics.jpg
 
 Passive
 ==============
@@ -85,7 +88,11 @@ ADCP
 
 An ADCP—short for Acoustic Doppler Current Profiler—is like a speed radar for ocean currents. It sends out sound waves and measures how they bounce off tiny particles in the water. Thanks to the Doppler effect, it can figure out how fast the water is moving and in which direction—at different depths.
 They have been integrated on all major gliders but making sense of the data they collect from a moving underwater vehicle, is a challenging task.
-SeaExplorers seem to have a pretty good solution for the data analysis.
+
+SeaExplorers seem to have a pretty good solution for the data analysis. From what I understand, they are using the Shear method explained in `this paper <https://journals.ametsoc.org/view/journals/atot/19/5/1520-0426_2002_019_0794_dvpula_2_0_co_2.xml>`_.
+For Slocum there are a few packages on GitHub such as `this one <https://github.com/JGradone/Slocum-AD2CP>`_.
+UW has their own solution for this which is not shared publicly. But again I found `this<https://github.com/callumrollo/adcp-glider>` on GitHub.
+`This paper <https://journals.ametsoc.org/view/journals/atot/34/2/jtech-d-16-0156.1.xml>`_ explains how this was done using a Spray gliders.
 
 .. image:: /images/adcp.png
 
